@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <math.h>
 
-#define COLUMNS    1000
-#define ROWS       1000
+#define COLUMNS    3000
+#define ROWS       3000
 #define MAX_TEMP_ERROR 0.01
 
 double Anew[ROWS+2][COLUMNS+2];
